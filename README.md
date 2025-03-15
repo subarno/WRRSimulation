@@ -1,3 +1,5 @@
+Name of the Project : WRRSim
+
 # Weighted Round Robin (WRR) Scheduler in OMNeT++
 
 This project implements a **Weighted Round Robin (WRR)** packet scheduling mechanism in OMNeT++.  
